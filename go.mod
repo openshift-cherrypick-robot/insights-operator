@@ -12,6 +12,7 @@ require (
 	github.com/coreos/pkg v0.0.0-20180928190104-399ea9e2e55f // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
 	github.com/emicklei/go-restful v1.1.4-0.20170410110728-ff4f55a20633 // indirect
+	github.com/eparis/urlhash v0.0.0-20191022152723-5838cc59d83c
 	github.com/evanphx/json-patch v4.2.0+incompatible // indirect
 	github.com/getsentry/raven-go v0.2.1-0.20190513200303-c977f96e1095 // indirect
 	github.com/go-openapi/jsonpointer v0.19.0 // indirect
